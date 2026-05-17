@@ -42,11 +42,12 @@ The Solution: I linked Sheet 4 (Map) and Sheet 5 (Bar Chart) using a Dashboard F
 The Result: This makes the dashboard much cleaner and easier to use. Instead of looking at a confusing wall of data, users can just click a country on the map to get the exact sales insights they need right away.
 
 📁 Repository Structure
+
 01_SQL_Scripts/ — SQL queries used to join data and calculate revenue.
 
-02_Python_Analysis/ — Jupyter Notebook files for trend analysis.
+02_Untitled1.ipynb — Jupyter Notebook for python analysis.
 
-03_Tableau_Dashboard/ — The workbook file containing the finished dashboard views.
+03_Tableau_Dashboard — The workbook file containing the finished dashboard views.
 
 🚀 How to Use
 Look into the 01_SQL_Scripts folder to see how the database tables are connected.
